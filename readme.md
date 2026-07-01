@@ -82,6 +82,7 @@ forest-cover-ml-pipeline/
 ├── Forest_Cover_Type_Prediction.ipynb
 ├── data/
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
